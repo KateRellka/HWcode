@@ -1,8 +1,7 @@
 function addInCartMessage(title, price) {
     let productName = title;
     let productPrice = price;
-    let message=product.Name;
-    message=message+" costs "+productPrice+" in the shopping cart!";
+    let message=product.Name+" costs "+productPrice+" in the shopping cart!";
     console.log(message);
 
 
